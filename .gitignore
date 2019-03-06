@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AzureADUsers/bin
+/.vs/ActiveDirectorySearch/v15/Server/sqlite3
+/AzureADUsers/obj
